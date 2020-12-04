@@ -1,5 +1,5 @@
 # Tiny-therm project
-### It's an alternative firmware version for a similar printed circuit board 
+### It's an alternative firmware version for a similar circuit board
 ![](img/board-1.png)
 #### The firmware reads the temperature from the sensor and shows it on the display.
 #### MCU type - ATtiny261A
